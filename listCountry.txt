@@ -1,4 +1,4 @@
-const listCountryData = [
+[
   {
     id: 1,
     name: 'Afghanistan',
@@ -12223,6 +12223,4 @@ const listCountryData = [
     emoji: '🇿🇼',
     emojiU: 'U+1F1FF U+1F1FC',
   },
-];
-
-export default listCountryData;
+]
